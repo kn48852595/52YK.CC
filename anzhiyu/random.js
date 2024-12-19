@@ -1,3 +1,3 @@
-var posts=[":/abbrlink.html"];function toRandomPost(){
+var posts=["f929.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
